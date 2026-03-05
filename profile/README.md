@@ -23,8 +23,7 @@ Construimos robots, aprendemos ingeniería y competimos en la
 
 <p align="center">
 <a href="https://www.instagram.com/utn.craft/">Instagram</a> •
-<a href="https://beacons.ai/utn.craft">Links</a> •
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdgvAnX9XPI2BGuun-LvzdFpHq6tR9PjNbU2ufGdkDkw3FDYA/viewform"><b>Unite al club</b></a>
+<a href="https://beacons.ai/utn.craft">Links</a>
 </p>
 
 ---
