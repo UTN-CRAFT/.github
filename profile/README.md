@@ -102,11 +102,10 @@ La idea es que cualquier estudiante pueda empezar desde cero y aprender a constr
 
 Si te interesa la robótica y querés participar del club:
 
-1️⃣ Completá el formulario de inscripción  
-2️⃣ Participá de las reuniones informativas  
-3️⃣ Empezá a trabajar en los proyectos del equipo  
+1️⃣ Podes mendar mensajes por consultas al instagram del club, te respondemos al instante.
+2️⃣ Participá de las reuniones, los 1ros y 3er Sabado de cada mes desde las 12hs en Campus (avisamos en instagram si hay cambio de aula).  
+3️⃣ Empezá a trabajar en los proyectos del equipo
 
-👉 **<a href="https://docs.google.com/forms/d/e/1FAIpQLSdgvAnX9XPI2BGuun-LvzdFpHq6tR9PjNbU2ufGdkDkw3FDYA/viewform">UNITE AL CLUB</a>**
 
 No importa si estás empezando o si ya tenés experiencia.  
 El club está abierto a estudiantes que quieran **aprender, construir y competir**.
