@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../assets/UTN-CRAFT-banner.png" width="100%" alt="UTN CRAFT Banner">
-</p>
-
 <h1 align="center">
   <img src="../assets/UTN-CRAFT-logo.png" width="90" alt="UTN CRAFT Logo">
   <br>
