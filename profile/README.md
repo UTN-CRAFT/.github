@@ -9,6 +9,16 @@
 </h1>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Robotics-Club-blue">
+<img src="https://img.shields.io/badge/UTN-FRBA-darkred">
+<img src="https://img.shields.io/badge/Embedded-Systems-green">
+<img src="https://img.shields.io/badge/Robotics-Competition-orange">
+<img src="https://img.shields.io/badge/Open-Source-brightgreen">
+
+</p>
+
+<p align="center">
 Club de Robótica de la <b>Universidad Tecnológica Nacional Buenos Aires (UTN.BA)</b>
 <br>
 Construimos robots, aprendemos ingeniería y competimos en la 
@@ -23,7 +33,10 @@ Construimos robots, aprendemos ingeniería y competimos en la
 
 ---
 
-# <img src="../assets/UTN-CRAFT-logo.png" width="35"> Sobre UTN-CRAFT
+<h1>
+<img src="../assets/UTN-CRAFT-logo.png" width="35" style="vertical-align:middle;"> 
+Sobre UTN-CRAFT
+</h1>
 
 UTN-CRAFT es un club de robótica creado por estudiantes de la **UTN FRBA** con el objetivo de:
 
@@ -38,12 +51,7 @@ Trabajamos de forma colaborativa combinando **software, electrónica y mecánica
 
 # 🏁 Competencias
 
-Participamos en la 
-<b><a href="https://lnr-argentina.com.ar/">Liga Nacional de Robótica (LNR)</a></b>.
-
-<p align="center">
-<img src="../assets/Logo_LNR.png" width="120">
-</p>
+Participamos en la <b><a href="https://lnr-argentina.com.ar/">Liga Nacional de Robótica (LNR)</a></b> <img src="../assets/Logo_LNR.png" width="22" style="vertical-align:middle;">
 
 Las categorías incluyen:
 
